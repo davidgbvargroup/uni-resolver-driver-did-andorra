@@ -1,0 +1,29 @@
+{
+  "name": "uni-resolver-driver-did-andorra",
+  "version": "1.0.0",
+  "description": "Universal Resolver driver for did:andorra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "did",
+    "andorra",
+    "universal-resolver",
+    "decentralized-identity"
+  ],
+  "author": "David Garcia Beatove <david.garciab@vargroupiberia.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidgbvargroup/uni-resolver-driver-did-andorra"
+  }
+}
