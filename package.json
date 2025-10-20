@@ -1,6 +1,6 @@
 {
   "name": "uni-resolver-driver-did-andorra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal Resolver driver for did:andorra",
   "type": "module",
   "main": "index.js",

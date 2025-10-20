@@ -13,7 +13,7 @@ app.get('/health', (req, res) => {
   res.json({ 
     status: 'ok',
     method: 'did:andorra',
-    version: '1.0.0'
+    version: '1.0.1'
   });
 });
 
